@@ -1,5 +1,5 @@
 from loader import dp, bot
-import handlers 
+import handlers # noqa
 from aiogram import executor
 
 
